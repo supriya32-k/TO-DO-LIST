@@ -32,7 +32,7 @@ A responsive and interactive to-do list built with HTML, CSS, and JavaScript. Th
  
 Getting Started
 1. Clone the Repository
-git clone https://github.com/your-username/todo-list-app.git
+git clone https://github.com/supriya32-k/todo-list-app.git
 cd todo-list-app
 
 2. Open in Browser
